@@ -1,0 +1,26 @@
+{
+  "thailand": {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "visa": "30 days visa-free",
+    "prices": {
+      "meal": "$3",
+      "beer": "$1.50",
+      "taxi": "$0.50/km"
+    },
+    "safety": "Safe for tourists with basic precautions",
+    "airport": "Suvarnabhumi (BKK)"
+  },
+  "france": {
+    "name": "France",
+    "capital": "Paris",
+    "visa": "Schengen Visa Required",
+    "prices": {
+      "meal": "$15",
+      "beer": "$6",
+      "taxi": "$2/km"
+    },
+    "safety": "Generally safe, beware of pickpockets",
+    "airport": "Charles de Gaulle (CDG)"
+  }
+}
